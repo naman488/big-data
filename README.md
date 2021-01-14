@@ -1,1 +1,1 @@
-Hadoop Ecosystem
+Hadoop ecosystem
